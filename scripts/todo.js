@@ -41,3 +41,5 @@ module.exports = (robot) => {
     }
   });
 };
+
+// 改良版
